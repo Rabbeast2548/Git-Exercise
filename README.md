@@ -29,12 +29,11 @@ Email: sakunzaza2548@gmail.com
 
 🖼️ 2. Picture
 
-![Quote](Quote.jpg)
+![Quote](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
-![GitGif](GITGIF.gif)
-
+![GitGif](Animation/GITGIF.gif)
 💬 4. Quote
 
 Revision control give us the confidence to move forward, because we can always trace our changes and return to what worked.
