@@ -37,6 +37,6 @@ Email: sakunzaza2548@gmail.com
 
 💬 4. Quote
 
-Revision control give us the confidence to move forward, because we can always trace our changes and return to what worked
+Revision control give us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
