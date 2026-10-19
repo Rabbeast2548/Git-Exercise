@@ -33,7 +33,7 @@ Email: sakunzaza2548@gmail.com
 
 🎞️ 3. Animation
 
-![GitGif](GitGif.gif)
+![GitGif](GITGIF.gif)
 
 💬 4. Quote
 
