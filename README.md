@@ -29,11 +29,11 @@ Email: sakunzaza2548@gmail.com
 
 🖼️ 2. Picture
 
-![Quote](Picture/Quote.png)
+![Quote](Quote.jpg)
 
 🎞️ 3. Animation
 
-![GitGif](Animation/GitGif.gif)
+![GitGif](GitGif.gif)
 
 💬 4. Quote
 
